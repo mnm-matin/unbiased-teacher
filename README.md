@@ -15,7 +15,7 @@ International Conference on Learning Representations (ICLR), 2021 <br>
 
 # Installation
 
-## Prerequisites
+## Prerequisite
 
 - Linux or macOS with Python ≥ 3.6
 - PyTorch ≥ 1.5 and torchvision that matches the PyTorch installation.
